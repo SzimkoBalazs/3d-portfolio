@@ -118,7 +118,7 @@ export const experiences = [
         company_name: "Whatever Group",
         icon: whatever,
         iconBg: "#b7e4c7",
-        date: "Jan 2022 - Jan 2023",
+        date: "Mar 2019 - Jun 2022",
         points: [
             "Oversaw the social media presence of renowned brands across Facebook, Instagram, and Twitter, enhancing their digital footprint.",
             "Crafted engaging content strategies that boosted follower engagement and brand visibility on multiple platforms.",
